@@ -1,1 +1,39 @@
 /* Write your CSS here! */
+body {
+    background-color: darkslategray;
+    margin: 8px;
+    display:block;
+}
+div {
+    background-color: white;
+}
+#mainHeading {
+    color: red;
+    text-align: center;
+    padding: 15px 0px 10px;
+}
+div,p {
+    width: 800px;
+    margin: auto;
+}
+h2 {
+    padding: 0px 25px 0px;
+}
+p.openingPara {
+    padding: 0px 15px 10px;
+    width: 750px;
+    margin: auto;
+    text-align: justify;
+}
+p.closingPara {
+    padding: 0px 15px 30px;
+    width: 750px;
+    text-align: justify;   
+}
+p.funParagraph {
+    color: green;
+    padding: 0px 15px 10px;
+    width: 750px;
+    margin: auto;
+    text-align: justify;
+}
